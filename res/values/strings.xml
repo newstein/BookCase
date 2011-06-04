@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, BookCase!</string>
+    <string name="app_name">BookCase</string>
+    <string name="intro">전래동화 전집</string>
+    <string name="list_title">Story Book 전집</string>
+    <string name="info_ok">OK</string>
+<string name="allbook_list_title">전래 동화 전집 보기</string>
+</resources>
